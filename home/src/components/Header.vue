@@ -46,6 +46,7 @@
           font-size 16px
           position relative
           transition transform .5s
+          font-weight 400
           &:hover
             transform translateY(-50px)
           &::before 
